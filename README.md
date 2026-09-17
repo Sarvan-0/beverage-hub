@@ -824,11 +824,3 @@ This project is licensed under the **MIT License**.
 See the `LICENSE` file for more information.
 
 ---
-
-## ⭐ Project Status
-
-**Current Status:** 🟢 Active Development
-
-Beverage Hub currently provides the core functionality required for a basic database-backed REST API.
-
-Future versions will focus on improving API design, validation, database architecture, testing, authentication, and deployment.
